@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @markgsmith64
-- 👀 I’m interested in 3D and Flutter development
-- 🌱 I’m currently learning Flutter and Three.JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flutter development
+- 🌱 I’m currently developing in Flutter and Three.JS
 - 📫 How to reach me markgsmith64@gmail.com
 
 <!---
